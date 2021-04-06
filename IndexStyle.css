@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "Comic Sans MS";
+	src: url("MasonQuotes/Fonts/ComicSansMS3.ttf");
+}
+
+h1 {
+        color: white;
+        -webkit-text-stroke: 4px black;
+        font-size: 100px;
+        font-family: "Comic Sans MS"
+    }
+
+h2 {
+        font-family: "Comic Sans MS";
+    }
+
+p {
+        font-family: "Comic Sans MS";
+    }
+
+body {
+        background-image: linear-gradient(to bottom right, purple, red);
+        background-attachment: fixed;
+	}
