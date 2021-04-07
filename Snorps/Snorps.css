@@ -1,0 +1,11 @@
+body {
+	background-image:linear-gradient(to bottom right, purple, red);
+	background-attachment:fixed;
+}
+
+h1 {
+	font-family: "Comic Sans MS";
+	color: white;
+	-webkit-text-stroke: .04em black;
+	font-size: 10em
+}
