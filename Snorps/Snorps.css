@@ -9,3 +9,17 @@ h1 {
 	-webkit-text-stroke: .04em black;
 	font-size: 10em
 }
+
+h2 {
+	font-family: "Comic Sans MS";
+	color: white;
+	font-size: 3em;
+	-webkit-text-stroke: .04em black;
+}
+
+p {
+	font-family: "Comic Sans MS";
+	color: white;
+	-webkit-text-stroke: .04em black;
+	font-size: 2em
+}
