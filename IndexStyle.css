@@ -16,9 +16,16 @@ h2 {
 
 p {
         font-family: "Comic Sans MS";
+		padding-bottom: 1px;
     }
 
 body {
         background-image: linear-gradient(to bottom right, purple, red);
         background-attachment: fixed;
+	
+	}
+
+.SmallText {
+		font-size: .75em;
+		padding-top: 1px;
 	}
