@@ -23,3 +23,20 @@ p {
 	-webkit-text-stroke: .04em black;
 	font-size: 2em
 }
+
+.DropdownHover {
+	position: relative;
+	display: inline-block;
+	background-color: white;
+}
+
+.DropdownBox {
+	position: absolute;
+	background-color: white;
+	display: none;
+}
+
+.DropdownHover:hover 
+.DropdownBox {
+	display: block;
+}
